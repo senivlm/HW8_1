@@ -1,0 +1,10 @@
+﻿Meat 20,6
+Fish 15,3
+Milk 5,0
+Bread 2,3
+Tomato 5,6
+Sprat 18,3
+Sausage 10,6
+Pasta 7,4
+Cheese 13,3
+Aperol 66,6
