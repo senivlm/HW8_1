@@ -34,7 +34,7 @@ namespace HW8_1
 
         public static int CompareN(Product a, Product b)
         {
-            return string.Compare(a.Name, b.Name, StringComparison.Ordinal);
+            return string.Compare(a.Name, b.Name);
         }
     }
 }

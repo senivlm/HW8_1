@@ -18,7 +18,7 @@ namespace HW8_1
                         Swap(sort, product);
                     }
                 }
-            }
+           }
             string result = utilita.Write(product);
             Console.WriteLine(result);
         }
