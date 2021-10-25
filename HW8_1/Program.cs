@@ -5,8 +5,7 @@ namespace HW8_1
     class Program
     {
         public delegate int Comparison(Product a, Product b);
-
-
+Цей розв'язок не відповідає умові задачі
         static void Main(string[] args)
         {
             Utilita utilita = new Utilita();
